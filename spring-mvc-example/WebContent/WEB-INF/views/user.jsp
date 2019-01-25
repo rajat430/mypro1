@@ -7,7 +7,7 @@
 <title>User Home Page</title>
 </head>
 <body>
-<h3>Hi ${userName}</h3>
-${eemm }
+<h3>Hi ${name}</h3>
+${id}
 </body>
 </html>
