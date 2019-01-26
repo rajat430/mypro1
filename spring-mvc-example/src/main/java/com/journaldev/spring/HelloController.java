@@ -10,7 +10,7 @@ public class HelloController {
 	@RequestMapping("/")
 	public String getStudents(@RequestAttribute Student student)
 	{
-		
+		System.out.println("hello");
 	return "user";	
 	}
 
